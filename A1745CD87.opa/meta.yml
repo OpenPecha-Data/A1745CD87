@@ -1,0 +1,22 @@
+id: A1745CD87
+title: Thirty-Seven Point Maṇḍala Offering
+type: translation
+pechas:
+- I7C886ECB
+- ID194F30D
+- I7347144A
+source_metadata:
+  languages:
+  - en
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:31:29.381022
+  last_modified_at: 2023-01-04 11:31:29.381034
+  collections:
+  - Chögyal Pakpa Lodrö Gyaltsen
+  - Works of Tibetan Masters
+alignment_to_base:
+  I7C886ECB/3FBB: 3A82
+  ID194F30D/8FA6: 3A82
+  I7347144A/D550: 3A82
